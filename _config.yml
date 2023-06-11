@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Ijeoma Ubani
+email: ubaniemmanuellaa@gmail.com
+author: EllaU
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,9 +43,7 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Emmanuella is a software engineer with over five years of experience working in top IT firms in the West of Africa. She demonstrates mastery of a wide range of programming languages and frameworks, including Flutter, Dart, React Native, React, AWS, Realm Database, Git, and OOP. She has a comprehensive understanding of the software development cycle. Emmanuella is skilled at programming, and she is proficient at translating client requirements into technical development plans.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
